@@ -4,8 +4,8 @@ First clone this repository to your laptop:
 
 ```bash
 cd ~/code/YOUR_GITHUB_USERNAME
-git clone git@github.com:lewagon/stimulus-js-boilerplate.git stimulus-js-boilerplate
-cd stimulus-js-boilerplate
+git clone git@github.com:OGsoundFX/stimulus-lecture-1689.git
+cd stimulus-lecture-1689
 rm -rf .git
 code . # Open this folder in your text editor
 ```
