@@ -1,4 +1,4 @@
-## Cloning a repo
+## Cloning this repo
 
 First clone this repository to your laptop (in the folder that you wish to clone it):
 
